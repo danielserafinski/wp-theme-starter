@@ -1,3 +1,7 @@
+@import '~font-awesome/scss/_variables.scss';
+$fa-font-path: "~font-awesome/fonts";
+@import '~font-awesome/scss/font-awesome.scss';
+
 // Customize Bootstrap variables that get imported before the original Bootstrap variables.
 // Thus original Bootstrap variables can depend on values from here.
 
