@@ -1,0 +1,1 @@
+All static file will be copy to dist/static/[path]/[file]
